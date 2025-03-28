@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "Sjarcand25",
+    "is_private": false,
+    "title": "And Still I Rise",
+    "description": "Maya Angelou’s performance in “And Still I Rise” is a powerful expression of determination. Addressing how people continue to rise despite their struggles, whether pain, grief, or fear. The performance showcases the oppressive struggles that have been prominent throughout history.",
+    "language": "en",
+    "slug": "AndStill-I-Rise",
+    "creator": "Sjarcand25",
+    "authors": "Summer Arcand-Auigbelle",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-03-28T22:55:05.355Z",
+    "updated_at": "2025-03-28T22:55:05.355Z"
   }
 }
