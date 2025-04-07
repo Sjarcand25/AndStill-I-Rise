@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-04-07T19:38:39.707Z",
+  "created_by": "saamturner",
+  "title": "And Still I Rise",
+  "slug": "and-still-i-rise",
+  "updated_at": "2025-04-07T19:38:39.707Z",
+  "updated_by": "saamturner",
+  "parent": "10d2fed5-b85c-4330-adf5-2fabec7baa4b",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "08803de2-d1fd-47ed-8271-8eb730d29511"
+  }
+}
